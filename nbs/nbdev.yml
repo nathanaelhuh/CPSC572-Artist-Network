@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "CPSC572-Artist-Network"
+  site-url: "https://nathanaelhuh.github.io/CPSC572-Artist-Network"
+  description: "CPSC572ArtistNetwork"
+  repo-branch: main
+  repo-url: "https://github.com/nathanaelhuh/CPSC572-Artist-Network"
